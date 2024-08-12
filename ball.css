@@ -1,0 +1,21 @@
+#image {
+    display: flex;
+    width: 400px;
+    height: 500px;
+    gap: 10px;
+  }
+  body {
+    background-color: grey;
+    color: white;
+  }
+  p {
+    color: black;
+  }
+  li {
+    color: orange;
+  }
+  .image{
+    width: 500px;
+    height: 250px;
+    display: flex;
+  }

@@ -1,0 +1,65 @@
+#title {
+  font-family: georgia;
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: blue;
+}
+body {
+  background-color: aqua;
+}
+.elephants {
+  width: 800px;
+  gap: 5px;
+  height: 250px;
+  display: flex;
+}
+.gazelles {
+  display: flex;
+  width: 800px;
+  gap: 5px;
+  height: 250px;
+}
+
+.giraffes {
+  width: 800px;
+  display: flex;
+  gap: 5px;
+  height: 250px;
+}
+.wildbeast {
+  display: flex;
+  width: 800px;
+  gap: 5px;
+  height: 250;
+}
+.lion {
+  display: flex;
+  gap: 5px;
+  height: 250px;
+  width: 800px;
+}
+.antelope {
+  gap: 5px;
+  display: flex;
+  height: 250px;
+  width: 800px;
+}
+.wildbeast {
+  gap: 5px;
+  display: flex;
+  height: 250px;
+  width: 800px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+h8 {
+  color: blue;
+  margin-top: 20px;
+}
