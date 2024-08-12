@@ -5,7 +5,7 @@ body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-weight: 200;
-  background-color: blanchedalmond;
+  background-color:blanchedalmond;
   color: #333333;
   margin: 0px;
 }
@@ -102,7 +102,6 @@ h5 {
   flex-wrap: wrap;
   gap: 16px; /* Optional: Adds space between the images */
 }
-
 .phone {
   display: flex;
   flex-wrap: wrap;
@@ -111,8 +110,8 @@ h5 {
 
 .phone img {
   max-height: 350px;
-  width: 48%; 
-  object-fit: cover; 
+  width: 48%;
+  object-fit: cover;
 }
 
 #home {
@@ -124,9 +123,10 @@ h5 {
 /************************************/
 #flex-project {
   display: flex;
-  flex-wrap:wrap;
+  flex-wrap: wrap;
   justify-content: space-evenly;
 }
+
 .project-card {
   background-color: #fff;
   height: 300px;
@@ -136,7 +136,7 @@ h5 {
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
 }
 .home-img {
-  display:grid;
+  display: grid;
   border-radius: 50%;
 }
 
