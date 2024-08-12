@@ -10,56 +10,46 @@ body {
   background-color: aqua;
 }
 .elephants {
-  width: 800px;
+  width: 200px;
   gap: 5px;
-  height: 250px;
+  height: 400px;
   display: flex;
 }
 .gazelles {
   display: flex;
-  width: 800px;
   gap: 5px;
-  height: 250px;
+  height: 500px;
 }
 
 .giraffes {
-  width: 800px;
   display: flex;
   gap: 5px;
-  height: 250px;
+  height: 530px;
 }
 .wildbeast {
   display: flex;
-  width: 800px;
+  width: 600px;
   gap: 5px;
-  height: 250;
+  height: 1000px;
 }
 .lion {
   display: flex;
   gap: 5px;
-  height: 250px;
+  height: 400px;
   width: 800px;
 }
 .antelope {
   gap: 5px;
   display: flex;
-  height: 250px;
-  width: 800px;
-}
+  height: 595px;
+  }
 .wildbeast {
   gap: 5px;
   display: flex;
-  height: 250px;
-  width: 800px;
-}
+  height: 365px;
+  }
 
-h2,
-h3,
-h4,
-h5,
-h6,
-h7,
-h8 {
+h2,h3,h4,h5,h6,h7,h8 {
   color: blue;
   margin-top: 20px;
 }

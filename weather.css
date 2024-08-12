@@ -1,5 +1,7 @@
-/*h1,h2{
+h1,h2{
   margin-left: 40px;
-  text-decoration: wavy;
-
-}*/
+  }
+img{
+  width: 650px;
+  height: 400px;
+}
