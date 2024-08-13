@@ -1,67 +1,63 @@
+body {
+  background-color: grey;
+  color: white;
+}
+p {
+  color: black;
+}
+li {
+  color: orange;
+}
+#image1 {
+  display: flex;
+  gap: 30px;
+  width: 500px;
+  height: 600px;
+}
 
-  body {
-    background-color: grey;
-    color: white;
-    }
-  p {
-    color: black;
-  }
-  li {
-    color: orange;
-  }
-  #image1{
-    display: flex;
-    gap:30px;
-    width:200px;
-    height: 500px;
-  }
+#image2 {
+  display: flex;
+  gap: 40px;
 
-  #image2{
-    display: flex;
-    gap:40px;
-    width: 200px;
-    height: 400px;
-  }
-  #image3{
-    display: flex;
-    gap:30px;
-    width:100px;
-    height:40px;
-  }
-  #image4{
-    display: flex;
-    gap:30px;
-    width:200px;
-    margin:;
-    height: 500px;
-  }
-  #image5{
-    display: flex;
-    gap:30px;
-    width:200px;
-    height: 500px;
-  }
-  #image6{
-    display: flex;
-    gap:30px;
-    width:200px;
-    height: 500px;
-  }
-  #image7{
-    display: flex;
-    gap:30px;
-    width:200px;
-    height: 500px;
-  }
-  #image8{
-    display: flex;
-    gap:30px;
-    width: 100px;    
-    height: 500px;
-  }
-  #image9{
-    display: flex;
-    gap:30px;
-    width: 50px;
-    height: 400px;
-  }
+  height: 420px;
+}
+#image3 {
+  display: flex;
+  gap: 30px;
+  height: 680px;
+}
+#image4 {
+  display: flex;
+  gap: 30px;
+  height: 580px;
+}
+#image5 {
+  display: flex;
+  gap: 30px;
+  height: 300px;
+}
+#image6 {
+  display: flex;
+  gap: 30px;
+  height: 420px;
+}
+#image7 {
+  display: flex;
+  gap: 30px;
+ height: 400px;
+}
+#image8 {
+  display: flex;
+  gap: 30px;
+  height: 370px;
+}
+#image9 {
+  display: flex;
+  gap: 30px;
+  height: 335Px;
+}
+#image10 {
+  display: flex;
+  gap: 30px;
+  height: 405px;
+}
